@@ -14,14 +14,13 @@
 
   <h2 align="center">📊 GitHub Stats</h2>
   <div align="center">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ShunichirouKamino&show_icons=true&theme=tokyonight&hide_border=true"
+    <img width="48%" src="https://github-readme-stats-fast.vercel.app/api?username=ShunichirouKamino&show_icons=true&theme=tokyonight&hide_border=true"
    alt="stats" />
     <img width="48%" src="https://streak-stats.demolab.com?user=ShunichirouKamino&theme=tokyonight&hide_border=true" alt="streak" />
   </div>
 
   <div align="center">
-    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShunichirouKamino&layout=compact&theme=tokyonight&hide_bo
-  rder=true&langs_count=8" alt="top langs" />
+    <img width="40%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ShunichirouKamino&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs" />
   </div>
 
   <h2 align="center">📈 Contribution Graph</h2>
@@ -32,7 +31,7 @@
 
   <h2 align="center">🏆 Trophies</h2>
   <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=ShunichirouKamino&theme=tokyonight&no-frame=true&column=7&margin-w=10"
+    <img src="https://github-trophies.vercel.app/?username=ShunichirouKamino&theme=tokyonight&no-frame=true&column=7&margin-w=10"
   alt="trophies" />
   </p>
 
