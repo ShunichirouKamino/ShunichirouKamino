@@ -1,6 +1,5 @@
   <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=7AA2F7&center=true&width=500&lines=Hi+%F0%9
-  F%91%8B%2C+I'm+Shunichiro!;Software+Engineer;Welcome+to+my+profile!" alt="typing" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=7AA2F7&center=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Shunichiro!;Software+Engineer;Welcome+to+my+profile!" alt="typing" />
   </p>
 
   <p align="center">
